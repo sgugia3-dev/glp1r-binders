@@ -1,0 +1,13 @@
+# git checkouts the pipeline imports, captured 2026-10-24 18:33 UTC
+# columns: tool  commit  branch
+PXDesign                   f788441313c84c3074fe9596ac2433f96b15c763   main
+boltzgen                   a3149cf18eeb58648d1abbb27539bd73f746cdda   ibisco-glibc217
+cutlass                    f7b19de32c5d1f3cedfc735c2849f12b537522ee   HEAD
+ipsae                      6174cf9e71cb1bd660cc805856a18c4871a6dec3   main
+mosaic                     d63b72cb23e342b0382600a40c4b730feb20fb01   ibisco-glibc217
+
+# commits recorded at install time (logs/*_commit.txt), kept as the authoritative pins
+boltzgen                   a3149cf18eeb58648d1abbb27539bd73f746cdda
+ipsae                      6174cf9e71cb1bd660cc805856a18c4871a6dec3
+mosaic                     d63b72cb23e342b0382600a40c4b730feb20fb01
+pxdesign                   f788441313c84c3074fe9596ac2433f96b15c763

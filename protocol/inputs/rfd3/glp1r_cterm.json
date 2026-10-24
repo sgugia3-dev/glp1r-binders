@@ -1,0 +1,37 @@
+{
+ "glp1r_m0_cterm_L50_100": {
+  "dialect": 2,
+  "infer_ori_strategy": "com",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_0.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true
+ },
+ "glp1r_m1_cterm_L50_100": {
+  "dialect": 2,
+  "infer_ori_strategy": "com",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_1.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true
+ },
+ "glp1r_m2_cterm_L50_100": {
+  "dialect": 2,
+  "infer_ori_strategy": "com",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_2.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true
+ },
+ "glp1r_m3_cterm_L50_100": {
+  "dialect": 2,
+  "infer_ori_strategy": "com",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_3.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true
+ },
+ "glp1r_m4_cterm_L50_100": {
+  "dialect": 2,
+  "infer_ori_strategy": "com",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_4.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true
+ }
+}

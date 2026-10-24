@@ -1,0 +1,1 @@
+MSA not copied (large): /lustre/home/gsgueglia/challenge2026/glp1r2026/inputs/msa/glp1r_receptor_A.a3m  5526633 bytes

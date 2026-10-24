@@ -1,0 +1,72 @@
+{
+ "r4_prox_L40_90_m0": {
+  "dialect": 2,
+  "infer_ori_strategy": "hotspots",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_0.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true,
+  "select_hotspots": {
+   "A174": "NZ",
+   "A178": "CD1",
+   "A210": "CE",
+   "A214": "CG1",
+   "A218": "OH"
+  }
+ },
+ "r4_prox_L40_90_m1": {
+  "dialect": 2,
+  "infer_ori_strategy": "hotspots",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_1.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true,
+  "select_hotspots": {
+   "A174": "NZ",
+   "A178": "CD1",
+   "A210": "CE",
+   "A214": "CG1",
+   "A218": "OH"
+  }
+ },
+ "r4_prox_L40_90_m2": {
+  "dialect": 2,
+  "infer_ori_strategy": "hotspots",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_2.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true,
+  "select_hotspots": {
+   "A174": "NZ",
+   "A178": "CD1",
+   "A210": "CE",
+   "A214": "CG1",
+   "A218": "OH"
+  }
+ },
+ "r4_prox_L40_90_m3": {
+  "dialect": 2,
+  "infer_ori_strategy": "hotspots",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_3.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true,
+  "select_hotspots": {
+   "A174": "NZ",
+   "A178": "CD1",
+   "A210": "CE",
+   "A214": "CG1",
+   "A218": "OH"
+  }
+ },
+ "r4_prox_L40_90_m4": {
+  "dialect": 2,
+  "infer_ori_strategy": "hotspots",
+  "input": "/lustre/home/gsgueglia/challenge2026/glp1r2026/fold_glp1r_glp_model_4.cif",
+  "contig": "B1-10,40-90,/0,A1-409",
+  "is_non_loopy": true,
+  "select_hotspots": {
+   "A174": "NZ",
+   "A178": "CD1",
+   "A210": "CE",
+   "A214": "CG1",
+   "A218": "OH"
+  }
+ }
+}

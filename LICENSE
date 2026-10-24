@@ -1,0 +1,17 @@
+Open Data Commons Attribution License (ODC-BY) v1.0
+
+The sequences, metrics and derived data in this repository are released under ODC-BY v1.0,
+consistent with the Anthropic x Adaptyv 2026 competition terms.
+Full text: https://opendatacommons.org/licenses/by/1-0/
+
+Attribution: please cite this repository and the Proteinbase competition record.
+
+NOTE ON TOOLING: this repository contains no third-party source code. The pipeline scripts here are
+our own. The tools they invoke carry their own licences and must be obtained separately:
+  RFdiffusion3 / rc-foundry  (RosettaCommons)
+  ProteinMPNN                (Dauparas et al.)
+  Boltz-2                    (MIT)
+  PyRosetta                  -- free for academic use; COMMERCIAL USE REQUIRES A PAID LICENCE
+                                from University of Washington (license@uw.edu)
+  PROPKA 3.5.1               (LGPL)
+Anyone reproducing the pH/pKa stages must confirm the PyRosetta licence covers their intended use.
